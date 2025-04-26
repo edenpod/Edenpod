@@ -1,0 +1,35 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #e6ede3;
+    padding: 20px;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    color: #3a5a40;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #3a5a40;
+}
+section {
+    padding: 40px 20px;
+}
+section#hero {
+    background-color: #dbeadf;
+    text-align: center;
+}
+footer {
+    background-color: #e6ede3;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+}
